@@ -1,1 +1,1 @@
-print("Om Namo Venkateshaya")
+print("Hello World!")
